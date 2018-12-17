@@ -1,0 +1,3 @@
+/home/zjc/桌面/pugixml/CMakeFiles/edit_cache.dir
+/home/zjc/桌面/pugixml/CMakeFiles/rebuild_cache.dir
+/home/zjc/桌面/pugixml/CMakeFiles/xmlconfigtest.dir

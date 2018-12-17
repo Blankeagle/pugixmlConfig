@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/xmlconfigtest.dir/pugixml.cpp.o CMakeFiles/xmlconfigtest.dir/xmlconfig.cpp.o CMakeFiles/xmlconfigtest.dir/XMLConfig_test.cc.o  -o xmlconfigtest -rdynamic 
